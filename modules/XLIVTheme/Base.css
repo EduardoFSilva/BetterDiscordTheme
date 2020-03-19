@@ -5,7 +5,7 @@
 .appMount-3lHmkl {
     background-position: center;
     background-size: cover;
-    background-color: black;
+    background-color:var(--bgColor) !important;
     filter: blur(0px);
 }
 
