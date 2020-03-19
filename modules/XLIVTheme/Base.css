@@ -1,15 +1,4 @@
-@font-face {
-    font-family: "Nasalization";
-    src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/nasalization-rg.ttf) format("truetype");
-}
-@font-face {
-  font-family: "Hemi Head";
-  src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/hemihead.ttf) format("truetype");
-}
-@font-face {
-  font-family: "Ethnocentric";
-  src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/ethnocentric-rg.ttf) format("truetype");
-}
+@import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/Fonts.css");
 
 
 /*Background Image*/
