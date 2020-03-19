@@ -16,7 +16,7 @@
 
 :root{
     /*Background*/
-    --bgURl: url("https://eduardofsilva.github.io/BetterDiscordTheme/resources/XLIVThemeBG.png");
+    --bgUrl: url("https://eduardofsilva.github.io/BetterDiscordTheme/resources/XLIVThemeBG.png");
     /*Discord Icon*/
     --iconNormal: #008;
     --iconHover: #00f;
