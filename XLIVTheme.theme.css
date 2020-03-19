@@ -19,7 +19,7 @@
 
 :root{
     /*Background*/
-    --bgColor: transparent;
+    --bgColor: transparent; /*For Custom image this need to be transparent*/
     /*Discord Icon*/
     --iconNormal: #008;
     --iconHover: #00f;
@@ -34,6 +34,28 @@
     --markBoxBorderThickness: 2px;
     --markBoxBG: #44444444;
     --markBoxPadding: 14px;
+    --markBoxBlockLang: #0ff;
+    --codeString: #42ffef;
+    --codeClasses: #f44;
+    --codeKeywords: #ff0;
+    --codeComment: lime;
+    --codeAttributes: #0ff;
+    --codeMethods: magenta;
+    --codeDelations: #f55;
 }
 
+/*Uncomment For You Custom BG*/
+
+/*
+.appMount-3lHmkl {
+    background-image: url("https://eduardofsilva.github.io/BetterDiscordTheme/resources/XLIVThemeBG.png");
+	/*For Custom image, change the Link abouve (Image Module Need To be disabled, Default: XLIV Theme BG)
+}
+*/
+
+
+
+
+
 /*You can add extra css rules under this comment*/
+

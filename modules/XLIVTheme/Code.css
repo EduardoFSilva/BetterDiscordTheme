@@ -8,3 +8,37 @@
 	background-color: var(--markBoxBG);
 	padding: var(--markBoxPadding);
 }
+
+.codeBlockLang-O_f4hr{
+	color: var(--markBoxBlockLang);
+}
+
+/*String*/
+.hljs-doctag, .hljs-literal, .hljs-meta .hljs-meta-string, .hljs-number, .hljs-regexp, .hljs-string{
+	color: var(--codeString);
+}
+/*Classes*/
+.hljs-built_in, .hljs-deletion{
+	color: var(--codeClasses);
+}
+/*KeyWords*/
+.hljs-addition, .hljs-keyword, .hljs-selector-tag {
+    color: var(--codeKeywords);
+}
+/*Comments*/
+.hljs-comment, .hljs-quote{
+	color: var(-codeComment);
+}
+/*Attributes*/
+.hljs-attr, .hljs-attribute, .hljs-class .hljs-title, .hljs-template-variable, .hljs-type, .hljs-variable{
+	color: var(--codeAttibutes);
+}
+/*Methods*/
+.hljs-name, .hljs-section, .hljs-selector-class, .hljs-selector-id, .hljs-title{
+	color: var(--codeMethods);
+	font-weight: bold;
+}
+/*Delation*/
+.hljs-built_in, .hljs-deletion{
+	color: var(--codeDelations);
+}
