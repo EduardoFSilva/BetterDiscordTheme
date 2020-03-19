@@ -22,12 +22,14 @@
     --iconNormal: #008;
     --iconHover: #00f;
     --iconActive: #004;
+
     /*Code Module Related*/
+
     /*Markdown Box*/
     --quoteAccent: #00f;
     --markBoxBorderType: solid;
     --markBoxBorderColor: #3e3e3e;
-    --markBoxBorderThicc: 2px;
+    --markBoxBorderThickness: 2px;
     --markBoxBG: #44444444;
     --markBoxPadding: 14px;
 }
