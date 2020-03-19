@@ -1,10 +1,10 @@
 /**
-@name XLIVTheme
-@version 2.0 Rewrited
-@author Eduardu44
-@description Rewrite From My Theme For Better Discord
-@source https://github.com/EduardoFSIlva/BetterDiscordTheme
-*/
+ * @name XLIVTheme
+ * @version 2.0 Rewrited
+ * @author Eduardu44
+ * @description Rewrite From My Theme For Better Discord
+ * @source https://github.com/EduardoFSIlva/BetterDiscordTheme
+ */
 
 
 
@@ -15,9 +15,6 @@
 @import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/XLIVTheme/Code.css");
 
 :root{
-    /*Background*/
-    --backgroundImg: url("https://eduardofsilva.github.io/BetterDiscordTheme/resources/XLIVThemeBG.png");
-    --backgroundColor: transparent;
     /*Discord Icon*/
     --iconNormal: #008;
     --iconHover: #00f;

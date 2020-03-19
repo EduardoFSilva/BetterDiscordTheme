@@ -6,6 +6,5 @@
 .markup-2BOw-j code{
 	border: var(--markBoxBorderType) var(--markBoxBorderColor) var(--markBoxBorderThickness);
 	background-color: var(--markBoxBG);
-	color: white;
-	padding: 14px;
+	padding: var(--markBoxPadding);
 }
