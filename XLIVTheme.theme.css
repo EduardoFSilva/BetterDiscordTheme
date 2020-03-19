@@ -9,13 +9,14 @@
 
 
 /*Main File - Don't Remove*/
-@import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/Transparency.css");
 @import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/XLIVTheme/Base.css");
 
 /*Comment For Disable Markdown*/
 @import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/XLIVTheme/Code.css");
 
 :root{
+    /*Background*/
+    --bgURl: url("https://eduardofsilva.github.io/BetterDiscordTheme/resources/XLIVThemeBG.png");
     /*Discord Icon*/
     --iconNormal: #008;
     --iconHover: #00f;
