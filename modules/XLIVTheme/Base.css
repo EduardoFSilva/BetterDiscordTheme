@@ -3,10 +3,10 @@
 
 /*Background Image*/
 .appMount-3lHmkl {
-    background-image: var(--bgUrl);
+    background-image: none;
     background-position: center;
     background-size: cover;
-    background-color: transparent !important;
+    background-color: black;
     filter: blur(0px);
 }
 
