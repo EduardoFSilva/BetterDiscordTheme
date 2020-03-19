@@ -20,7 +20,6 @@
 :root{
     /*Background*/
     --bgColor: transparent;
-    --bgImg: url("https://eduardofsilva.github.io/BetterDiscordTheme/resources/XLIVThemeBG.png");
     /*Discord Icon*/
     --iconNormal: #008;
     --iconHover: #00f;
