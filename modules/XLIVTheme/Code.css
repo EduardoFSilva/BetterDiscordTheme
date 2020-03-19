@@ -4,10 +4,12 @@
 }
 
 .markup-2BOw-j code{
+    color: var(--codeWrite);
 	border: var(--markBoxBorderType) var(--markBoxBorderColor) var(--markBoxBorderThickness);
 	background-color: var(--markBoxBG);
 	padding: var(--markBoxPadding);
 }
+
 
 .codeBlockLang-O_f4hr{
 	color: var(--markBoxBlockLang);
