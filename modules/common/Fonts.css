@@ -10,16 +10,8 @@
   font-family: "Hemi Head";
   src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/hemihead.ttf) format("truetype");
 }
-@font-face {
-  font-family: "Fira Sans RG";
-  src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/firasans-rg.ttf) format("truetype");
-}
-@font-face {
-  font-family: "Fira Sans Semibold";
-  src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/firasans-semibold.ttf) format("truetype");
-}
 
 @font-face {
-  font-family: "Ubuntu";
+  font-family: "Red October";
   src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/ubuntu-regular.ttf) format("truetype");
 }
