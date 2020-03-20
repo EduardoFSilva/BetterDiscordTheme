@@ -1,15 +1,11 @@
 @font-face {
     font-family: "Nasalization";
-    src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/nasalization-rg.ttf) format("truetype");
-}
-@font-face {
     font-family: "Nasalization RG";
     src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/nasalization-rg.ttf) format("truetype");
 }
-@font-face {
-  font-family: "Hemi Head";
-  src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/hemihead.ttf) format("truetype");
-}
+/*@font-face {
+    src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/nasalization-rg.ttf) format("truetype");
+}*/
 @font-face {
   font-family: "Ethnocentric";
   src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/ethnocentric-rg.ttf) format("truetype");
@@ -17,6 +13,10 @@
 @font-face {
   font-family: "Ethnocentric RG";
   src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/ethnocentric-rg.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Hemi Head";
+  src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/hemihead.ttf) format("truetype");
 }
 @font-face {
   font-family: "Fira Sans RG";

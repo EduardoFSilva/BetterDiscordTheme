@@ -1,0 +1,10 @@
+Available Fonts on this repository:
+
+Nasalization
+Nasalization RG
+Ethnocentric
+Ethnocentric RG
+Hemi Head
+Fira Sans RG
+Fira Sans Semibold
+Ubuntu
