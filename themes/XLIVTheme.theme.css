@@ -1,6 +1,6 @@
 /**
   * @name XLIVTheme
-  * @version 2.1 Build 5 Rewrited
+  * @version 2.0.1 Rewrited
   * @author Eduardu44
   * @description Rewrite From My Theme For Better Discord
   * @source https://github.com/EduardoFSIlva/BetterDiscordTheme
@@ -8,8 +8,12 @@
 
 
 
-/*Main File - Don't Remove*/
+/*Main Module File - Don't Remove*/
 @import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/xlivtheme/Base.css");
+
+
+
+/*Extra Modules CAN BE DISABLED*/
 
 /*Comment/Remove To Disable Theme Image*/
 @import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/xlivtheme/Image.css");
@@ -20,6 +24,8 @@
 /*Comment/Remove For Disable Status(WIP)*/
 @import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/xlivtheme/Status.css");
 
+
+/*Variables*/
 :root{
     /*Background*/
     --bgColor: transparent; /*For Custom image this need to be transparent*/
