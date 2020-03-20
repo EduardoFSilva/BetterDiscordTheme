@@ -1,3 +1,6 @@
+#Used for commit from gitpod/linux with just one command
+#Please Ignore
+
 clear
 if [ -z $1 ]
 then
