@@ -26,3 +26,8 @@
   font-family: "Fira Sans Semibold";
   src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/firasans-semibold.ttf) format("truetype");
 }
+
+@font-face {
+  font-family: "Ubuntu";
+  src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/ubuntu-regular.ttf) format("truetype");
+}
