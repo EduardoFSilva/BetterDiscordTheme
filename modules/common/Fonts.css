@@ -1,17 +1,9 @@
 @font-face {
-    font-family: "Nasalization";
-    font-family: "Nasalization RG";
+    font-family: "Nasalization", "Nasalization RG";
     src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/nasalization-rg.ttf) format("truetype");
 }
-/*@font-face {
-    src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/nasalization-rg.ttf) format("truetype");
-}*/
 @font-face {
-  font-family: "Ethnocentric";
-  src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/ethnocentric-rg.ttf) format("truetype");
-}
-@font-face {
-  font-family: "Ethnocentric RG";
+  font-family: "Ethnocentric", "Ethnocentric RG";
   src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/ethnocentric-rg.ttf) format("truetype");
 }
 @font-face {
