@@ -23,6 +23,7 @@
 :root{
     /*Background*/
     --bgColor: transparent; /*For Custom image this need to be transparent*/
+    --bgImg: url("");
     /*Discord Icon*/
     --iconNormal: #008;
     --iconHover: #00f;
@@ -47,18 +48,6 @@
     --codeMethods: magenta;
     --codeDelations: #f55;
 }
-
-/*Uncomment For You Custom BG*/
-
-/*
-.appMount-3lHmkl {
-    background-image: url("https://eduardofsilva.github.io/BetterDiscordTheme/resources/xlivtheme/XLIVThemeBG.png");
-	/*For Custom image, change the Link abouve (Image Module Need To be disabled, Default: XLIV Theme BG)
-}
-*/
-
-
-
 
 
 /*You can add extra css rules under this comment*/

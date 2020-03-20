@@ -3,7 +3,7 @@
 
 /*Background Image*/
 .appMount-3lHmkl {
-    background-image: none;
+    background-image: var(--bgImg);
     background-position: center;
     background-size: cover;
     background-color: var(--bgColor) !important;
