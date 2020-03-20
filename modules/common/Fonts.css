@@ -14,3 +14,11 @@
   font-family: "Red October";
   src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/red-october.ttf) format("truetype");
 }
+@font-face {
+  font-family: "Osaka";
+  src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/osaka-re.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Data Trash";
+  src: url(https://eduardofsilva.github.io/BetterDiscordTheme/resources/common/fonts/data-trash.ttf) format("truetype");
+}
