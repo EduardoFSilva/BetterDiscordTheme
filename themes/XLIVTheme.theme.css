@@ -17,6 +17,9 @@
 /*Comment For Disable Markdown*/
 @import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/XLIVTheme/Code.css");
 
+/*Comment For Disable Status(WIP)*/
+@import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/XLIVTheme/Status.css");
+
 :root{
     /*Background*/
     --bgColor: transparent; /*For Custom image this need to be transparent*/
