@@ -17,13 +17,12 @@
 
 /*Comment/Remove To Disable Theme Image*/
 @import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/xlivtheme/Image.css");
-
 /*Comment/Remove For Disable Markdown*/
 @import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/xlivtheme/Code.css");
-
 /*Comment/Remove For Disable Status(WIP)*/
 @import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/xlivtheme/Status.css");
-
+/*Comment/Remove For Disable Frame(WIP)*/
+@import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/xlivtheme/Frame.css");
 
 /*Variables*/
 :root{
