@@ -23,7 +23,7 @@
 :root{
     /*Background*/
     --bgColor: transparent; /*For Custom image this need to be transparent*/
-    --bgImg: url("");
+    --bgImg: url(""); /*For Custom Image Drop The Image Link Here(Image Module Needs to be Disabled)*/
     /*Discord Icon*/
     --iconNormal: #008;
     --iconHover: #00f;
