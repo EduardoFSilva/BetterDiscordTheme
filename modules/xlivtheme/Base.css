@@ -30,8 +30,12 @@
 	color: white;
 }
 
+/*Removes Discord Logotype*/
+.wordmarkWindows-1v0lYD > svg{
+ display: none;
+}
+
 .titleBar-AC4pGV .wordmark-2iDDfm::after {
-    /* For credits don't remove */
     display: inline-block;
     position: absolute;
     top: 5px;
@@ -39,8 +43,9 @@
     width: 250px;
     height: 16px;
     font-family: "Nasalization";
-    content: "XLIV Theme 2.1 Rewrited";
+    content: "Discord XLIV Themed 2.1 Rewrited";
     color: #fff;
+    text-align: center;
     font-weight: bold;
     font-size: 14px;
     z-index: 999;
