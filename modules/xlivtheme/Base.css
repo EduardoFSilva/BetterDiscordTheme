@@ -30,8 +30,7 @@
 	color: white;
 }
 
-/*Old Title Handler*/
-/*.titleBar-AC4pGV .wordmark-2iDDfm::after {
+.titleBar-AC4pGV .wordmark-2iDDfm::after {
     display: inline-block;
     position: absolute;
     top: 5px;
@@ -44,9 +43,9 @@
     font-weight: bold;
     font-size: 14px;
     z-index: 999;
-}*/
+}
 
-.typeWindows-1za-n7 {
+/*.typeWindows-1za-n7 {
     border: 0px solid transparent;
     border-radius: 0px;;
     margin-right: -2px;
@@ -64,7 +63,7 @@
     font-weight: bold;
     margin: 0 auto;
     margin-top: 4px;
-}
+}*/
 
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG{
 	overflow: auto;
