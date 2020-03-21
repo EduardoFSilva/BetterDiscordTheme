@@ -30,18 +30,14 @@
 	color: white;
 }
 
-.wordmarkWindows-1v0lYD > svg{
- display: none;
-}
-
 .titleBar-AC4pGV .wordmark-2iDDfm::after {
     /* For credits don't remove */
     display: inline-block;
     position: absolute;
     top: 5px;
     left: 70px;
-    /*width: 250px;
-    height: 16px;*/
+    width: 250px;
+    height: 16px;
     font-family: "Nasalization";
     content: "XLIV Theme 2.1 Rewrited";
     color: #fff;
