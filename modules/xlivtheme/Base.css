@@ -30,7 +30,7 @@
 	color: white;
 }
 
-.titleBar-AC4pGV .wordmark-2iDDfm::after {
+.titleBar-AC4pGV .wordmark-2iDDfm::after > p {
     /* For credits don't remove */
     display: inline-block;
     position: absolute;
