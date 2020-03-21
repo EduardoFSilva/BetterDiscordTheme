@@ -45,6 +45,12 @@
     z-index: 999;
 }*/
 
+/*Disable Discord Icon*/
+.wordmark-2iDDfm > svg{
+  display: none;
+}
+
+/*New Title Handler*/
 .typeWindows-1za-n7 {
     left: 50%;
     height: 20px;
@@ -88,7 +94,3 @@
 	background-color: var(--iconActive);
 }
 
-/*Disable Discord Icon*/
-.wordmark-2iDDfm > svg{
-  display: none;
-}
