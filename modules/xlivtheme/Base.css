@@ -35,20 +35,19 @@
  display: none;
 }
 
-/*.titleBar-AC4pGV .wordmark-2iDDfm*/ .wordmarkWindows-1v0lYD{
+.titleBar-AC4pGV .wordmark-2iDDfm::after {
     display: inline-block;
-    position: relative;
+    position: absolute;
     top: 5px;
     left: 70px;
-    width: 400px;
+    width: 350px;
     height: 16px;
     font-family: "Nasalization";
-    text-align: center;
     content: "Discord XLIV Themed 2.1 Rewrited";
     color: #fff;
     font-weight: bold;
     font-size: 14px;
-    z-index: 999;
+    z-index: 1999;
 }
 
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG{
