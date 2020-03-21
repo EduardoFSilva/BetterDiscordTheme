@@ -1,0 +1,24 @@
+/*Transiction For DM*/
+.layout-2DM8Md{
+  transition: all 250ms linear
+}
+
+.clickable-1JJAn8:hover .layout-2DM8Md{
+  background-color: #ffffff88;
+  transition: all 250ms linear
+}
+.clickable-1JJAn8:hover .layout-2DM8Md > div > div > div{
+  color: black;
+  transition: all 250ms linear
+}
+
+.clickable-1JJAn8:active .layout-2DM8Md{
+  background-color: #00005588;
+  transition: none;
+}
+.clickable-1JJAn8:active .layout-2DM8Md > div > div > div{
+  color: yellow;
+}
+.selected-aXhQR6 .layout-2DM8Md{
+  background-color: #005;  
+}
