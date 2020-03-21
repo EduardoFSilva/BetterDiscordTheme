@@ -87,3 +87,8 @@
 .wrapper-1BJsBx:active.selected-bZ3Lue .childWrapper-anI2G9:active{
 	background-color: var(--iconActive);
 }
+
+/*Disable Discord Icon*/
+.wordmarkWindows-1v0lYD > svg{
+    display: none !important;
+}
