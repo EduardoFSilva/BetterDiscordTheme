@@ -40,12 +40,12 @@
     position: absolute;
     top: 5px;
     left: 70px;
-    width: 250px;
+    width: 350px;
     height: 16px;
     font-family: "Nasalization";
     content: "Discord XLIV Themed 2.1 Rewrited";
     color: #fff;
-    align-self: center;
+    text-align: center;
     font-weight: bold;
     font-size: 14px;
     z-index: 999;
