@@ -30,8 +30,8 @@
 	color: white;
 }
 
-.titleBar-AC4pGV .wordmark-2iDDfm::after {
-    /* For credits don't remove */
+/*Old Title Handler*/
+/*.titleBar-AC4pGV .wordmark-2iDDfm::after {
     display: inline-block;
     position: absolute;
     top: 5px;
@@ -44,6 +44,26 @@
     font-weight: bold;
     font-size: 14px;
     z-index: 999;
+}*/
+
+.typeWindows-1za-n7 {
+    border: 0px solid transparent;
+    border-radius: 0px;;
+    margin-right: -2px;
+    margin-left: -2px;
+}
+.typeWindows-1za-n7::after {
+    position: absolute;
+    text-align: -webkit-center;
+    height: 16px;
+    content: "Discord  -  XLIV Theme v2.1 Rewrited";
+    white-space: pre;
+    color: #fff;
+    font-family: "Nasalization";
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 auto;
+    margin-top: 4px;
 }
 
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG{
