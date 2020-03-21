@@ -36,7 +36,7 @@
 
 .titleBar-AC4pGV .wordmark-2iDDfm::after {
     /* For credits don't remove */
-    display: inline;
+    display: inline-block;
     position: absolute;
     top: 5px;
     left: 270px;
