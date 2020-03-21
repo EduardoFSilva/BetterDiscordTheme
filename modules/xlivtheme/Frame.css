@@ -1,14 +1,19 @@
+/*Transiction For DM*/
+:root{
+  --time: 250ms
+}
+
 .layout-2DM8Md{
-  transition: all 250ms linear
+  transition: all 125ms linear
 }
 
 .clickable-1JJAn8:hover .layout-2DM8Md{
   background-color: #ffffff88;
-  transition: all 250ms linear
+  transition: all var(--time) linear
 }
 .clickable-1JJAn8:hover .layout-2DM8Md > div > div > div{
   color: black;
-  transition: all 250ms linear
+  transition: all var(--time) linear
 }
 
 .clickable-1JJAn8:active .layout-2DM8Md{
@@ -16,8 +21,19 @@
   transition: none;
 }
 .clickable-1JJAn8:active .layout-2DM8Md > div > div > div{
-  color: yellow;
+  color: #ffff00ff;
+  transition: none;
 }
 .selected-aXhQR6 .layout-2DM8Md{
-  background-color: #005;  
+  background-color: #005; 
+  transition: none;
+
+}
+
+.scrollerWrap-1IAIlv{
+  background-color: #00005533; 
+}
+
+.typeWindows-1za-n7{
+  background-color: #00005533; 
 }
