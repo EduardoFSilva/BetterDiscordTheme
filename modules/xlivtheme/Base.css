@@ -30,24 +30,24 @@
 	color: white;
 }
 
-/*Removes Discord Logotype*/
 .wordmarkWindows-1v0lYD > svg{
  display: none;
 }
 
 .titleBar-AC4pGV .wordmark-2iDDfm::after {
-    display: inline-block;
+    /* For credits don't remove */
+    display: inline;
     position: absolute;
     top: 5px;
-    left: 70px;
-    width: 350px;
-    height: 16px;
+    left: 270px;
+    /*width: 250px;
+    height: 16px;*/
     font-family: "Nasalization";
     content: "XLIV Theme 2.1 Rewrited";
     color: #fff;
     font-weight: bold;
     font-size: 14px;
-    z-index: 1999;
+    z-index: 999;
 }
 
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG{
