@@ -30,7 +30,7 @@
 	color: white;
 }
 
-.titleBar-AC4pGV .wordmark-2iDDfm::after > p {
+.titleBar-AC4pGV .wordmark-2iDDfm::after {
     /* For credits don't remove */
     display: inline-block;
     position: absolute;
@@ -38,11 +38,11 @@
     left: 70px;
     width: 250px;
     height: 16px;
-    font-family: "Nasalization";
+    font-family: "Nasalization RG";
     content: "XLIV Theme 2.1 Rewrited";
     color: #fff;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 13px;
     z-index: 999;
 }
 
