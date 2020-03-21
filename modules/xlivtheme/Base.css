@@ -35,13 +35,13 @@
  display: none;
 }
 
-.titleBar-AC4pGV .wordmark-2iDDfm {
+/*.titleBar-AC4pGV .wordmark-2iDDfm*/ .wordmarkWindows-1v0lYD{
     display: inline-block;
     position: absolute;
     top: 5px;
     left: 70px;
-    /*width: 350px;
-    height: 16px;*/
+    width: 400px;
+    height: 16px;
     font-family: "Nasalization";
     -webkit-box-align: center;
     content: "Discord XLIV Themed 2.1 Rewrited";
