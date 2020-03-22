@@ -72,3 +72,9 @@
 .slateTextArea-1Mkdgw{
   color: #A76BF6;
 }
+
+.scroller-2FKFPG::-webkit-scrollbar, 
+.scrollerThemed-2oenus.themeGhostHairline-DBD-2d .scroller-2FKFPG::-webkit-scrollbar, 
+.scrollerThemed-2oenus.themeGhostHairlineChannels-3G0x9_ .scroller-2FKFPG::-webkit-scrollbar {
+    width: 5px;
+}
