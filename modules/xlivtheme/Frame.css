@@ -67,7 +67,7 @@
   background-color: #6d00ff;
 }
 
-
+/*Modal*/
 .theme-dark .uploadModal-2ifh8j,
 .uploadModal-2ifh8j .footer-3mqk7D.hasSpoilers-1IRtQC,
 .uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j{
@@ -76,7 +76,7 @@
   border: solid 1px blue;
 }
 
-
+/*Modal Send Button*/
 .lookFilled-1Gx00P.colorBrand-3pXr91{
   background-color: transparent;
   color: #A76BF6;
@@ -94,22 +94,36 @@
   border: none;
 }
 
+/*Modal Text*/
 .filename-ovv3c5,
 .label-3aiqT2,
 .primary-jw0I4K{
   color: #A76BF6;
 }
+/*Modal Cancel Button*/
 .colorPrimary-3b3xI6{
   color: #A76BF6 !important;
 }
 .colorPrimary-3b3xI6:hover,.colorPrimary-3b3xI6:active{
   color: white !important;
 }
-
+/*Modal Spoiler Checkbox*/
 .theme-dark .checked-3_4uQ9{
   background-color: blue;
   border-color: blue !important;
 }
 .theme-dark .checked-3_4uQ9 > svg > g > polyline{
   stroke: white;
+}
+
+/*Text Area*/
+.scrollableContainer-2NUZem{
+  background-color: #00007755;
+}
+
+.placeholder-37qJjk{
+  color: #7517F1;
+}
+.slateTextArea-1Mkdgw{
+  color: #A76BF6;
 }
