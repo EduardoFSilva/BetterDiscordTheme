@@ -37,3 +37,21 @@
 .typeWindows-1za-n7{
   background-color: #23005299; 
 }
+
+.winButtonClose-1HsbF-,.winButtonMinMax-PBQ2gm{
+  background-color: #230052;
+  height: 21px;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.winButtonClose-1HsbF-:hover{
+  background-color: #6d00ff;
+}
+.winButtonMinMax-PBQ2gm:hover{
+  background-color: #0000c0;
+}
+
+.item-2hkk8m{
+  background-color: #6d00ff;
+}
