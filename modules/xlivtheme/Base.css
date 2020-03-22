@@ -55,7 +55,7 @@
 .typeWindows-1za-n7 {
     left: 50%;
     height: 20px;
-    background-color: #23005299; 
+    background-color: #000; 
     z-index: 1;
 }
 
@@ -95,7 +95,4 @@
 	background-color: var(--iconActive);
 }
 
-/*Text Area*/
-.scrollableContainer-2NUZem{
-  background-color: #00007755;
-}
+
