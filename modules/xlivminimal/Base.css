@@ -1,9 +1,12 @@
+/*Including XLIV Rewrited Base*/
 @import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/xlivtheme/Base.css");
 
+/*Setting Up Color In Case Of Disabling Image Module*/
 .appMount-3lHmkl {
     background-color: black;
 }
 
+/*Chanding Title From Rewrited Base for the Minimal Base*/
 .typeWindows-1za-n7:after {
     content: "Discord   -   XLIV Minimal 1.1";
 }
