@@ -38,6 +38,7 @@
   background-color: #23005299; 
 }
 
+/*Minimize, Maximize and Close Buttons*/
 .winButtonClose-1HsbF-,.winButtonMinMax-PBQ2gm{
   background-color: #230052;
   height: 21px;
@@ -66,6 +67,11 @@
   background-color: #6d00ff;
 }
 
+/*Text Area*/
+.scrollableContainer-2NUZem{
+  background-color: #00007755;
+}
+
 .placeholder-37qJjk{
   color: #7517F1;
 }
@@ -73,6 +79,7 @@
   color: #A76BF6;
 }
 
+/*ScrollBar*/
 .scroller-2FKFPG::-webkit-scrollbar, 
 .scrollerThemed-2oenus.themeGhostHairline-DBD-2d .scroller-2FKFPG::-webkit-scrollbar, 
 .scrollerThemed-2oenus.themeGhostHairlineChannels-3G0x9_ .scroller-2FKFPG::-webkit-scrollbar {
