@@ -16,8 +16,6 @@
 
 /*Variables*/
 :root{
-    /*Background*/
-    --bgColor: transparent; /*Change For Disable Image*/
     /*Discord Icon*/
     --iconNormal: #008;
     --iconHover: #00f;
