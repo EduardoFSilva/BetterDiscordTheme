@@ -43,15 +43,32 @@
   height: 21px;
   padding-left: 2px;
   padding-right: 2px;
+  transition: all var(--time) linear
 }
 
 .winButtonClose-1HsbF-:hover{
   background-color: #6d00ff;
+  transition: all var(--time) linear
 }
 .winButtonMinMax-PBQ2gm:hover{
   background-color: #0000c0;
+  transition: all var(--time) linear
 }
-
+.winButtonClose-1HsbF-:active{
+  background-color: #8E3CFC;
+  transition: none;
+}
+.winButtonMinMax-PBQ2gm:active{
+  background-color: #4949FC;
+  transition: none;
+}
 .item-2hkk8m{
   background-color: #6d00ff;
+}
+
+.placeholder-37qJjk{
+  color: #7517F1;
+}
+.slateTextArea-1Mkdgw{
+  color: #A76BF6;
 }
