@@ -1,0 +1,29 @@
+/**
+  * @name XLIVTheme
+  * @version Rewrited
+  * @author Eduardu44
+  * @description Minimal Version From The XLIV Theme
+  * @source https://github.com/EduardoFSIlva/BetterDiscordTheme
+  */
+
+
+
+/*Main Module File - Don't Remove*/
+@import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/xlivminimal/Base.css");
+
+/*Comment/Remove To Disable Theme Image*/
+@import url("https://eduardofsilva.github.io/BetterDiscordTheme/modules/xlivminimal/Image.css");
+
+/*Variables*/
+:root{
+    /*Background*/
+    --bgColor: transparent; /*Change For Disable Image*/
+    /*Discord Icon*/
+    --iconNormal: #008;
+    --iconHover: #00f;
+    --iconActive: #004;
+}
+
+
+/*You can add extra css rules under this comment*/
+
