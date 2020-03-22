@@ -22,7 +22,7 @@
 }
 .clickable-1JJAn8:active .layout-2DM8Md > div > div > div{
   color: white;
-  transition: all var(--time) linear
+  transition: none;
 }
 .selected-aXhQR6 .layout-2DM8Md{
   background-color: #005; 

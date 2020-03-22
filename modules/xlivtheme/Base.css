@@ -20,8 +20,9 @@
 
 /*DM Title*/
 .name-uJV0GL{
-    font-size: 18px;
-    color: white;
+    font-size: 16px;
+    font-family: Osaka;
+    color: #7517F1;
 }
 
 /*DM Subtitle*/
@@ -94,3 +95,10 @@
 	background-color: var(--iconActive);
 }
 
+/*Text Area*/
+.scrollableContainer-2NUZem{
+  background-color: #00007755;
+}
+.placeholder-37qJjk, .slateTextArea-1Mkdgw{
+  color: #7517F1;
+}
