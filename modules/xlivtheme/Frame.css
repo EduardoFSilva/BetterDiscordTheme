@@ -67,21 +67,49 @@
   background-color: #6d00ff;
 }
 
-/*Text Area*/
-.scrollableContainer-2NUZem{
-  background-color: #00007755;
+
+.theme-dark .uploadModal-2ifh8j,
+.uploadModal-2ifh8j .footer-3mqk7D.hasSpoilers-1IRtQC,
+.uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j{
+  background-color: #0000ff11;
+  color: #A76BF6;
+  border: solid 1px blue;
 }
 
-.placeholder-37qJjk{
-  color: #7517F1;
+
+.lookFilled-1Gx00P.colorBrand-3pXr91{
+  background-color: transparent;
+  color: #A76BF6;
+  border: solid 1px #A76BF6;
 }
-.slateTextArea-1Mkdgw{
+
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover{
+  background-color: #A76BF6;
+  color: white;
+  border: none;
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91:active{
+  background-color: #7517F1;
+  color: white;
+  border: none;
+}
+
+.filename-ovv3c5,
+.label-3aiqT2,
+.primary-jw0I4K{
   color: #A76BF6;
 }
+.colorPrimary-3b3xI6{
+  color: #A76BF6 !important;
+}
+.colorPrimary-3b3xI6:hover,.colorPrimary-3b3xI6:active{
+  color: white !important;
+}
 
-/*ScrollBar*/
-.scroller-2FKFPG::-webkit-scrollbar, 
-.scrollerThemed-2oenus.themeGhostHairline-DBD-2d .scroller-2FKFPG::-webkit-scrollbar, 
-.scrollerThemed-2oenus.themeGhostHairlineChannels-3G0x9_ .scroller-2FKFPG::-webkit-scrollbar {
-    width: 5px;
+.theme-dark .checked-3_4uQ9{
+  background-color: blue;
+  border-color: blue !important;
+}
+.theme-dark .checked-3_4uQ9 > svg > g > polyline{
+  stroke: white;
 }
