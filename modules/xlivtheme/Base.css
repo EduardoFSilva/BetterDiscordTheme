@@ -96,3 +96,58 @@
 }
 
 
+/*Modal*/
+.theme-dark .uploadModal-2ifh8j,
+.uploadModal-2ifh8j .footer-3mqk7D.hasSpoilers-1IRtQC,
+.uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j{
+  background-color: transparent;
+  color: white;
+  border: solid 1px white;
+}
+
+/*Modal Checkbox*/
+.theme-dark .checked-3_4uQ9{
+  background-color: transparent;
+  border-color: white !important;
+}
+.theme-dark .checked-3_4uQ9 > svg > g > polyline{
+  stroke: white;
+}
+
+/*Modal Send Button*/
+.lookFilled-1Gx00P.colorBrand-3pXr91{
+  background-color: transparent;
+  color: white;
+  border: solid 1px white;
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover{
+  background-color: white;
+  color: black;
+  border: none;
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91:active{
+  background-color: gray;
+  color: black;
+  border: none;
+}
+
+/*Modal Text*/
+.filename-ovv3c5,
+.label-3aiqT2,
+.primary-jw0I4K{
+  color: white;
+}
+
+
+/*Text Area*/
+.scrollableContainer-2NUZem{
+  background-color: #292B3055;
+}
+
+.placeholder-37qJjk{
+    color: #cacaca;
+}
+.slateTextArea-1Mkdgw{
+    color: white;
+}
